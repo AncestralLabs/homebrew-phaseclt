@@ -7,7 +7,7 @@ class Phaseclt < Formula
   on_macos do
     if Hardware::CPU.arm?
       url "https://github.com/AncestralLabs/homebrew-phaseclt/releases/download/0.0.2/phaseclt-0.0.2-darwin-arm64.zip"
-      sha256 "90acb3ba32b739af71b5ee20723da6a855f50ae04742ad26b755ae6e7c4387c2"
+      sha256 "1a351ba72ebb7414648a15e96927209c6267b0626628fa2a901d890118f8f393"
     else
       odie "This formula only supports Apple Silicon (arm64)"
     end
