@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
+url: https://ancestral-labs.github.io
+baseurl: /homebrew-tap
+remote_theme: pages-themes/primer@v0.2.0
+plugins:
+  - jekyll-remote-theme
 title: Ancestral Third-Party Software
 description: A curated collection of install “formulas” and setup notes for multiple projects.
