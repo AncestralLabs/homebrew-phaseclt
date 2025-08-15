@@ -1,12 +1,12 @@
-# Ancestral Third-Party Repository
+# Index
 
 A curated collection of install “formulas” and setup notes for multiple projects:
-- `phaseclt` a tool for creating and managing Linux, DOS, or macOS bootable devices using low-level libraries on a Mac. It is written in Swift and optimized for Apple silicon.
+- [`phaseclt`](phaseclt/) a tool for creating and managing Linux, DOS, or macOS bootable devices using low-level libraries on a Mac. It is written in Swift and optimized for Apple silicon.
 - New projects comming soon...
 
 This repository will evolve over time as new formulas, platform notes, and troubleshooting guidance are added.
 
-## What is `phaseclt`?
+## What is [`phaseclt`](phaseclt/)?
 
 `phaseclt` is a CLI that helps prepare and manage bootable media (USB, external SSDs, etc.) for multiple operating systems directly from macOS, leveraging low-level APIs for performance and reliability on Apple silicon.
 
