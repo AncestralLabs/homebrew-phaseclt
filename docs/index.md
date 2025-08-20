@@ -1,4 +1,4 @@
-# Index
+# Ancestral Third-Party Repository
 
 A curated collection of install “formulas” and setup notes for multiple projects:
 - [`phaseclt`](phaseclt/) a tool for creating and managing Linux, DOS, or macOS bootable devices using low-level libraries on a Mac. It is written in Swift and optimized for Apple silicon.
