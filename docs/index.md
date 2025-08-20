@@ -24,7 +24,7 @@ This repository will evolve over time as new formulas, platform notes, and troub
 
 ## Prerequisites
 
-- macOS 13+ (Ventura or newer) on Apple silicon recommended
+- macOS 15+ (Sequoia or newer) on Apple silicon recommended
 - Administrative privileges for device operations
 - Sufficient free disk space for image handling and verification
 
@@ -36,7 +36,7 @@ Each formula binary has its own release published and ready to me downloaded man
 
 - Clone this repo:
   - git clone https://github.com/ancestral-labs/homebrew-tap.git
-  - cd phaseclt-formulas
+  - cd homebrew-tap
 
 ## Contributing
 
@@ -60,3 +60,9 @@ Maintainers at Ancestral Laboratories and the community of contributors who test
 ## Contact
 
 Open an issue with detailed logs, macOS version, hardware model, and steps to reproduce.
+
+## Copyright
+
+© 2023-2025 Ancestral Labs
+
+All rights reserved

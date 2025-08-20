@@ -27,13 +27,14 @@ You need an Apple silicon Mac to run `phaseclt`.
 
 ### Install or upgrade
 
-If you're installing or upgrading automatically, see the [HomeBrew](https://formulae.brew.sh/ancestral/phaseclt#default) documentation, searching for `phaseclt`:
+If you're installing or upgrading automatically, see the [HomeBrew](https://formulae.brew.sh/ancestral-labs/phaseclt#default) documentation, searching for `phaseclt`:
 
 ```bash
-brew install ancestral/phaseclt
+brew tap ancestral-labs/tap
+brew install phaseclt
 ```
 ```bash
-brew update ancestral/phaseclt
+brew update phaseclt
 ```
 
 Install manually the latest signed installer package for `phaseclt` from the [GitHub release page](https://github.com/AncestralLabs/phaseclt/releases).
@@ -45,7 +46,7 @@ To install the tool, copy the binary and resources in a directory included in th
 Use the `uninstall-phaseclt.sh` script to remove `phaseclt` from your system. To remove your user data along with the tool, run:
 
 ```bash
-brew uninstall ancestral/phaseclt
+brew uninstall phaseclt
 ```
 
 To uninstall `phaseclt` manually, erase the folder where is located the binary and the resources files, usually on manual installations it is located on `/usr/local`.
