@@ -1,3 +1,9 @@
+---
+title: "Ancestral Homebrew Repository"
+description: "Ancestral Homebrew Third-Party Repository"
+permalink: /
+---
+
 # Ancestral Third-Party Repository
 
 A curated collection of install “formulas” and setup notes for multiple projects:

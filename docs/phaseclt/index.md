@@ -1,3 +1,8 @@
+---
+title: "PhaseCLT"
+description: "Phase Command Line Tool Documentation"
+permalink: /phaseclt/
+---
 
 # `phaseclt`
 
