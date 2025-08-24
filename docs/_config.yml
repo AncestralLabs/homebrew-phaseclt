@@ -1,5 +1,5 @@
 remote_theme: pages-themes/primer
 plugins:
   - jekyll-remote-theme
-title: Ancestral Labs
+title: Ancestral Homebrew
 description: A curated collection of install “formulas” and setup notes for multiple projects.
