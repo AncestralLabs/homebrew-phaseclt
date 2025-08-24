@@ -4,11 +4,11 @@ description: "Homebrew Third-Party Repository"
 permalink: /
 ---
 
-# Official Repository
+# Third-Party Repository
 
 A curated collection of install “formulas” and setup notes for multiple projects from Ancestral Labs.
 
-Package formulas:
+📦 Package formulas:
 - [`phaseclt`](phaseclt/)
 - [`...`](./)
 
