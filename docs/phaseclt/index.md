@@ -21,6 +21,12 @@ phaseclt create unix /path/to/macos.dmg /dev/disk4
 phaseclt --help
 phaseclt --version
 ```
+### Prerequisites
+
+- macOS 15+ (Sequoia or newer) on Apple silicon recommended
+- Administrative privileges for device operations
+- Sufficient free disk space for image handling and verification
+
 
 ## Get started
 

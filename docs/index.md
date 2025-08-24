@@ -1,25 +1,18 @@
 ---
-title: "Ancestral Homebrew Repository"
-description: "Ancestral Homebrew Third-Party Repository"
+title: "Homebrew Repository"
+description: "Homebrew Third-Party Repository"
 permalink: /
 ---
 
 # Ancestral Third-Party Repository
 
-A curated collection of install “formulas” and setup notes for multiple projects:
-- [`phaseclt`](phaseclt/) a tool for creating and managing Linux, DOS, or macOS bootable devices using low-level libraries on a Mac. It is written in Swift and optimized for Apple silicon.
-- New projects comming soon...
+A curated collection of install “formulas” and setup notes for multiple projects.
+
+Package formulas:
+- [`phaseclt`](phaseclt/)
+- [`...`](./)
 
 This repository will evolve over time as new formulas, platform notes, and troubleshooting guidance are added.
-
-## What is [`phaseclt`](phaseclt/)?
-
-`phaseclt` is a CLI that helps prepare and manage bootable media (USB, external SSDs, etc.) for multiple operating systems directly from macOS, leveraging low-level APIs for performance and reliability on Apple silicon.
-
-- Language: Swift
-- Platform: macOS (Apple silicon optimized)
-- Use cases: Create bootable installers, write images, manage partitions/flags, verify media
-
 
 ## Repository Structure
 
@@ -27,12 +20,6 @@ This repository will evolve over time as new formulas, platform notes, and troub
 - docs/: Additional notes, FAQs, and troubleshooting guides
 - LICENSE.md: The license and terms of use of the repository's formulas. 
 
-
-## Prerequisites
-
-- macOS 15+ (Sequoia or newer) on Apple silicon recommended
-- Administrative privileges for device operations
-- Sufficient free disk space for image handling and verification
 
 ## Releases
 
