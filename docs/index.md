@@ -4,7 +4,7 @@ description: "Homebrew Third-Party Repository"
 permalink: /
 ---
 
-# Ancestral Third-Party Repository
+# Homebrew Repository
 
 A curated collection of install “formulas” and setup notes for multiple projects.
 
